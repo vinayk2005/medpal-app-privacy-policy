@@ -36,7 +36,7 @@ You have the right to:
 
 - Access, update, or delete the personal information you provide.
 - Opt out of receiving notifications by disabling them in your device settings.
-- Delete your account and all associated data by contacting our support team at [support email].
+- Delete your account and all associated data by contacting our support team at vinayak2005@gmail.com.
 
 ## 7. Children’s Privacy
 Med is not intended for use by individuals under the age of 13. We do not knowingly collect any personal information from children under 13. If we become aware that we have inadvertently collected such information, we will take steps to delete it promptly.
